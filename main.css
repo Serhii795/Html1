@@ -170,10 +170,81 @@
 .cart-descr {
     text-align: center;
     font-family: 'Tinos', serif;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .carts-holder {
     display: flex;
     justify-content: center;
 }
+  
+.history {
+    margin-top: 166px;
+}
+
+.history-title {
+    font-family:'Tinos', serif;
+    font-size: 54px;
+    font-weight: 400;
+    width: 444px;
+    text-align: center;
+    margin-top: 21px;
+}
+
+.history-desc {
+    font-size: 20px;
+    width: 444px;
+    text-align: center;
+}
+
+.history-number {
+    display: flex;
+    width: 444px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.number-Item {
+    margin-right: 60px;
+    text-align: center;
+    color: orange;
+    font-size: 25px;
+}
+
+
+.number-Item span {
+    display: block;
+    color: black;
+
+}
+
+.history-holder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images-1 {
+    position: relative;
+    z-index: 0;
+    top: -4px;
+    left: 82px;
+}
+
+
+.images-2 {
+    position: relative;
+    z-index: 0;
+    top: 67px;
+    left: -10px;
+}
+
+.images-3 {
+    position: relative;
+    z-index: 0;
+    top: 150px;
+    left: -430px;
+}
+
+
+
